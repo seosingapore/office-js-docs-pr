@@ -61,3 +61,6 @@ For example:
 	```xml
 	<SourceLocation DefaultValue="https://localhost:44300/App/Home/Home.html" />
 	```
+## Supporting sideloaded add-ins with single sign on
+
+When working with sideloaded add-ins, single sign on (SSO) features behave differently than they would with add-ins from the Office Store. Specifically, the add-in's [WebApplicationInfo](/reference/manifest/webapplicationinfo.md) determines the consent experience for users when acquiring and activating the add-in. In contrast, Office Store add-ins rely on values provided in the manifest.
