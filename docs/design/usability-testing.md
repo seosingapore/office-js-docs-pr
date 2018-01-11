@@ -15,6 +15,7 @@ You can run usability tests in different ways. For many add-in developers, remot
  - [UserTesting.com](https://www.UserTesting.com)
  - [Optimalworkshop.com](https://www.Optimalworkshop.com)
  - [Userzoom.com](https://www.Userzoom.com)
+ - [User.com.sg](https://www.User.com.sg)
 
 These testing services help you to streamline test plan creation and remove the need to seek out participants or moderate the tests. 
 
